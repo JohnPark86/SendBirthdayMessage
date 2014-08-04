@@ -1,0 +1,7 @@
+John Smith/1986-04-02/415-789-0768/john@john.com
+Dalaena Pamla/1988-03-30/415-579-0865/dalaena@pamla.com
+Happy Jones/1981-08-10/415-555-1234/Happy@Jonesy.com
+Hemingway Dogg/1990-05-21/561-456-7777/Hemingwayrules@hem.com
+Phil Cheeseguy/1995-05-21/203-555-6545/Cheese@cheese.com
+Mario Luigi/1977-05-21/407-223-2323/mario@luigi.com
+Adam Sandler/2014-04-21/123-456-7890/Happy@Madison.com
